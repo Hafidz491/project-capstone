@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SigFood</string>
+    <string name="hello_blank_fragment">Hello this is blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="favorite">favorite</string>
+    <string name="account">Account</string>
+    <string name="search">Search</string>
+    <string name="scan">Scan</string>
+    <string name="mulai">mulai</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="sigfood">SigFood merupakan aplikasi penyedia resep makanan nusantara. Sehingga kamu tidak perlu repot lagi mencari resep di google karena semua sudah tersedia disini.</string>
+    <string name="coba">Ingin mencoba?</string>
+    <string name="title_activity_container">ContainerActivity</string>
+    <string name="title_search">Search</string>
+    <string name="tittle_account">Account</string>
+    <string name="login_first">Login Terlebih dahulu untuk menggunakan seluruh fitur!</string>
+    <string name="login">Login</string>
+    <string name="tv_cari">Mau makan apa hari ini?</string>
+    <string name="olah_sayur">Olahan Sayuran</string>
+    <string name="olah_ayam">Olahan Ayam</string>
+    <string name="text_scan">Kamu dapat mencari Makanan Favorite kamu hanya dengan menggunakan gambar disini.</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="syarat_dan_ketentuan">Syarat dan Ketentuan</string>
+    <string name="sign_up">sign up</string>
+    <string name="invalid_email">Email tidak Valid!</string>
+    <string name="data_diri">Silahkan Isi data diri terlebih dahulu!</string>
+</resources>
